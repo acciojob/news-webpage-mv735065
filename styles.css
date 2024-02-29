@@ -14,6 +14,9 @@
 	color:white;
 	padding:10px;
 }
+.latest-news-section >ul{
+padding-left:35%;
+}
 
 .latest-news-section{
 	text-align:center;
